@@ -5,6 +5,7 @@ from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from googleapiclient.http import MediaIoBaseDownload, MediaFileUpload
+import math
 # import mediaFileUpload from googleapiclient
 
 import pandas as pd
@@ -142,7 +143,7 @@ def main():
     service = build('drive', 'v3', credentials=creds)
 
     excel_values = get_excel_values()
-    
+
     try:
         main_folder = "Dataset Categories"
         main_folder_id = CheckFolder(service, main_folder)
@@ -159,10 +160,14 @@ def main():
         # extract filename from path
         filepath = excel_values[i][10]
         folderName = excel_values[i][9]
-        if(folderName == "None" or folderName == 'nan'):
-            print("info: folder name is not there")
-            logFile.write("\ninfo: folder name is not there")
-            continue
+        try:
+
+            if(math.isnan(filepath)):
+                print("info: folder name is not there")
+                logFile.write("\ninfo: folder name is not there")
+                continue
+        except:
+            pass
         filename = filepath.split("\\")[-1].split(".")[0]
 
         folderId = CheckFolder(service, folderName)
@@ -176,10 +181,10 @@ def main():
         file = service.files().create(body=file_metadata,
                                       media_body=media,
                                       fields='id').execute()
-        print('info: uploaded file %s with File ID: %s' %
-              (file.get('id'), file.get('name')))
-        logFile.write("\ninfo: uploaded file %s with File ID: %s" %
-                      (file.get('id'), file.get('name')))
+        print('info: uploaded file {} with File ID: {}'.format(
+            file.get('name'), file.get('id')))
+        logFile.write("\ninfo: uploaded file {} with File ID: {}".format(
+            file.get('name'), file.get('id')))
 
 
 if __name__ == '__main__':

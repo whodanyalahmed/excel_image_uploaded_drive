@@ -1,2 +1,37 @@
 
 Started at: 2022-02-10 23:38:10.218800
+Started at: 2022-02-10 23:38:37.058678Dataset Categories is already thereWood Crossarm Assembly is already there
+info: uploaded file 1QFVCYdCCwUo5XKrvdeJ5sUz_Bih6H-U_ with File ID: NoneDataset Categories is already thereWood Crossarm Assembly is already there
+info: uploaded file 1KqoFZc2QnnFNFYs4T2AJwMhSojs17xiI with File ID: NoneDataset Categories is already there
+folder/File is not there creating one...
+Folder ID: 1e0wF5zoUOLR_6BVUxhkY48DxpbjGQD0Y
+info: uploaded file 1lrzXwEuakDCpPhggMNoJQJMsGjjuVd8i with File ID: NoneDataset Categories is already thereInsulators is already there
+info: uploaded file 1R4DPFuyQuE9dBA5x3itx4p0gsmvwadVL with File ID: NoneDataset Categories is already thereInsulators is already there
+info: uploaded file 1uRHvIA85FIK5XTlnikERsYFtgHtRv_n5 with File ID: NoneDataset Categories is already thereInsulators is already there
+info: uploaded file 1kJW7-ejDOrtWZm3czfzNgmYKyJU5iSBZ with File ID: NoneDataset Categories is already thereInsulators is already there
+info: uploaded file 1Cme_jRQORZ1yq-JZBXh5v82VoneWx9Fg with File ID: NoneDataset Categories is already there
+folder/File is not there creating one...
+Folder ID: 16lGuuKEJaByObfjSvPR7W5CDwjWbeP_J
+info: uploaded file 1Qk20xim-tPVnJWzC4MDQWp0TLsFwW67b with File ID: NoneDataset Categories is already thereWood Poles is already there
+info: uploaded file 1U5_jo0o7nTbqTPKBV8ZTgDe9sD1ZRGVM with File ID: NoneDataset Categories is already thereWood Crossarm Assembly is already there
+info: uploaded file 1GPkn-NueYOVvMP67ewRBgdLQewYwJRaC with File ID: NoneDataset Categories is already thereWood Poles is already there
+info: uploaded file 1pApvGRYzR0jTy5d1-aokW03EY6ZbbDSy with File ID: NoneDataset Categories is already there
+folder/File is not there creating one...
+Folder ID: 1joRqqO3o6qqKKZBGrbSA0MJN7H8xlFca
+info: uploaded file 1Z0Mw3bSqxbzT4gXZWrKsgA1sTsr9SGgR with File ID: NoneDataset Categories is already thereInsulators is already there
+info: uploaded file 1JdxxKP301ER0EMmQ7VbiBV4MrwZIaVEx with File ID: None
+Started at: 2022-02-10 23:42:42.333151Dataset Categories is already thereWood Crossarm Assembly is already there
+Started at: 2022-02-10 23:43:58.055390Dataset Categories is already thereWood Crossarm Assembly is already there
+info: uploaded file None with File ID: 1srjyTH1MseCn2ucB2bsxz7t8Et2sfi9lWood Crossarm Assembly is already there
+info: uploaded file None with File ID: 1lhK4X9j8QSHmVAuCi94PtPYLLgXrh-vsInsulators is already there
+info: uploaded file None with File ID: 1wnhPHoLeyGA7wL2IluidJVCbjZuJw5MfInsulators is already there
+info: uploaded file None with File ID: 10XJw7uVOC-47_SyKoVFIxxdyZrX09o1eInsulators is already there
+info: uploaded file None with File ID: 1Ix85XS_XSZbxAV9uZDrKXU0A8al-bu3jInsulators is already there
+info: uploaded file None with File ID: 1rD1XDfztzkB09dm6OiZCEOZJ49c6ANPgInsulators is already there
+info: uploaded file None with File ID: 1VZmLHaAU3hbITFelCKoTh-vrK9mYijlLWood Poles is already there
+info: uploaded file None with File ID: 1nkvn1tYf9d0j-EDvw8F6QOmCpVazb8nbWood Poles is already there
+info: uploaded file None with File ID: 1nnAKgB2ccLfUqEA7LLX4IXRgAKVZtYx9Wood Crossarm Assembly is already there
+info: uploaded file None with File ID: 1k2P1dE8VXAuZYS0xgW0E0Szb-xMOx6npWood Poles is already there
+info: uploaded file None with File ID: 1nKbjcCYk1Mvb6glSu0msbZpsryx1PIqRGuys-Anchors is already there
+info: uploaded file None with File ID: 1fZlpV79nXbXmEbqNYcKCF5U7DwFYbzrRInsulators is already there
+info: uploaded file None with File ID: 1nr5iP6EFBihC9jn3ISKAMsHw0FId4WT3
