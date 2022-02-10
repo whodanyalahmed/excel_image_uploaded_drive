@@ -72,6 +72,7 @@ def CheckFileDir(FileName, service):
     if not items:
         logFile.write('\nNo files found.')
         print('No files found.')
+        logFile.write('\nNo files found.')
         return None
     else:
         # print('Files:')
@@ -139,18 +140,48 @@ def main():
             pickle.dump(creds, token)
 
     service = build('drive', 'v3', credentials=creds)
-    excel_values = get_excel_values()
-    # for i in range(len(values)):
-    #     print(values[i][10])
-    #     print(values[i][9])
-    # extract filename from path
-    filename = excel_values[0][10].split("\\")[-1].split(".")[0]
-    print(filename)
-    CheckFolder(service, excelvalues[0][9])
-    file_metadata = {'name': filename,'parents' : [ folderId ]}
 
-    media = MediaFileUpload(excel_values[0][10], mimetype='image/jpeg')
-    file = service.files().create(body=file_metadata,
-                                        media_body=media,
-                                        fields='id').execute()
-    print('File ID: %s' % file.get('id'))
+    excel_values = get_excel_values()
+    
+    try:
+        main_folder = "Dataset Categories"
+        main_folder_id = CheckFolder(service, main_folder)
+        if(main_folder_id == None):
+            main_folder_id = CreateFolder(main_folder, service)
+        else:
+            pass
+    except Exception as e:
+        logFile.write("\n"+str(e))
+        print(e)
+    for i in range(len(excel_values)):
+        #     print(values[i][10])
+        #     print(values[i][9])
+        # extract filename from path
+        filepath = excel_values[i][10]
+        folderName = excel_values[i][9]
+        if(folderName == "None" or folderName == 'nan'):
+            print("info: folder name is not there")
+            logFile.write("\ninfo: folder name is not there")
+            continue
+        filename = filepath.split("\\")[-1].split(".")[0]
+
+        folderId = CheckFolder(service, folderName)
+        # print(main_folder_id)
+        if(folderId == None):
+            folderId = CreateFolder(folderName, service, main_folder_id)
+        else:
+            pass
+        file_metadata = {'name': filename, 'parents': [folderId]}
+        media = MediaFileUpload(filepath, mimetype='image/jpeg')
+        file = service.files().create(body=file_metadata,
+                                      media_body=media,
+                                      fields='id').execute()
+        print('info: uploaded file %s with File ID: %s' %
+              (file.get('id'), file.get('name')))
+        logFile.write("\ninfo: uploaded file %s with File ID: %s" %
+                      (file.get('id'), file.get('name')))
+
+
+if __name__ == '__main__':
+    main()
+    logFile.close()
