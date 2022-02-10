@@ -48,7 +48,7 @@ def CheckFolder(service, FileName):
             # print(item['name'])
             if(item['name'] == FileName):
                 print(FileName + " is already there")
-                logFile.write(FileName + " is already there")
+                logFile.write("\n" + FileName + " is already there")
                 # print(item['name'])
                 return item['id']
 
