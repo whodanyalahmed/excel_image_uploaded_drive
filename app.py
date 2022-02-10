@@ -10,7 +10,8 @@ import math
 
 import pandas as pd
 import datetime
-
+# enter xlsx file name here
+xlsx_filename = 'Sample Sheet.xlsx'
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/drive']
@@ -58,7 +59,7 @@ def CheckFolder(service, FileName):
 def get_excel_values():
 
     # read excel file
-    df = pd.read_excel('Sample Sheet.xlsx')
+    df = pd.read_excel(xlsx_filename)
     # print all values after 4th row
     # print(df.iloc[4:])
     return df.iloc[3:].values
