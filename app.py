@@ -101,7 +101,7 @@ def CopyToFolder(folder, name, service):
 def CreateFolder(folder, service, parent=None):
     # Call the Drive v3 API
     # CheckFileDir(folder)
-    print("folder/File is not there creating one...")
+    print("{} is not there creating one...".format(folder))
     logFile.write("\nfolder/File is not there creating one...")
     body = {
         'name': folder,
@@ -189,4 +189,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+    print("success: successfully completed")
+    logFile.write("\nsuccess: successfully completed")
     logFile.close()

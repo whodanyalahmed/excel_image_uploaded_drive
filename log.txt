@@ -35,3 +35,32 @@ info: uploaded file None with File ID: 1k2P1dE8VXAuZYS0xgW0E0Szb-xMOx6npWood Pol
 info: uploaded file None with File ID: 1nKbjcCYk1Mvb6glSu0msbZpsryx1PIqRGuys-Anchors is already there
 info: uploaded file None with File ID: 1fZlpV79nXbXmEbqNYcKCF5U7DwFYbzrRInsulators is already there
 info: uploaded file None with File ID: 1nr5iP6EFBihC9jn3ISKAMsHw0FId4WT3
+Started at: 2022-02-10 23:56:56.910027Dataset Categories is already thereWood Crossarm Assembly is already there
+info: uploaded file None with File ID: 1kJarb5RzYR8NEgoVtlqSgeiviYhJUX6pWood Crossarm Assembly is already there
+info: uploaded file None with File ID: 1bZf6yIRBqSUjj7Izz_Se6EsXn6TcxJ4RInsulators is already there
+info: uploaded file None with File ID: 1k_vvaPqtcdfjZXBt2CXH0F9gS9Tfc4jvInsulators is already there
+info: uploaded file None with File ID: 10jwEPA49Kn98QV_3o2yKkbUrNZPWkFRPInsulators is already there
+info: uploaded file None with File ID: 1XnwhAIdOfWtQoNbGXBz1fmdAVceOipBjInsulators is already there
+info: uploaded file None with File ID: 1QRlnwD8IoZYh1mO61zDRTv1k38pTAcKiInsulators is already there
+info: uploaded file None with File ID: 1P8ZrGB46Yh3-VKs6BUDAKOy3FXqsxAekWood Poles is already there
+info: uploaded file None with File ID: 196YOBSzA5SMPIDHpB9IvuujC9A5H6Kk2Wood Poles is already there
+info: uploaded file None with File ID: 1tYOubhXHq95fJa2n94s4fp-KtUU3XQ8_Wood Crossarm Assembly is already there
+info: uploaded file None with File ID: 1-LOzq18wf-jtAMovi9Q8DU1mA3U6QbmNWood Poles is already there
+info: uploaded file None with File ID: 1lMEmNgaxX11xGXZSLoimPFxp6tGygwGgGuys-Anchors is already there
+info: uploaded file None with File ID: 1a4iqndPsfgJPF8AE94584bSXsj5tHZiQInsulators is already there
+info: uploaded file None with File ID: 1OZrAo_kBNi5v-gnN8zJEJTrp6eHdGedP
+info: folder name is not there
+info: folder name is not thereInsulators is already there
+info: uploaded file None with File ID: 15Fcuethkuh7mvoLRlocy_jC3KfrjmHhx
+Started at: 2022-02-11 00:01:01.189545
+folder/File is not there creating one...
+Folder ID: 1wPMeBUUNrqkybgDwVBbfdZlA-rVPVbGF
+folder/File is not there creating one...
+Folder ID: 1aT3YpllnfT_xegYin9bMHVtsmeasQaba
+info: uploaded file None with File ID: 1f9Riu_KhJgbxrE5TvIapqYZEmMrJRYMG
+Wood Crossarm Assembly is already there
+info: uploaded file None with File ID: 1QVsPE9_70iA0vnDHjY5RaoWvrpdlynn_
+folder/File is not there creating one...
+Folder ID: 1kQDTSTnuaIH1nxauRlEUWEING1KUOjij
+info: uploaded file None with File ID: 1eodcsBwy144YH9z5mRCd_B1KrUzu8aGa
+Insulators is already there
