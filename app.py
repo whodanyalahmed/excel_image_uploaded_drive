@@ -17,6 +17,8 @@ SCOPES = ['https://www.googleapis.com/auth/drive']
 
 
 logFile = open("log.txt", "a+")
+# add formatting line to the file
+logFile.write("\n===========================================================")
 logFile.write("\nStarted at: " + str(datetime.datetime.now()))
 # To list folders
 
@@ -191,4 +193,5 @@ if __name__ == '__main__':
     main()
     print("success: successfully completed")
     logFile.write("\nsuccess: successfully completed")
+    logFile.write("\n===========================================================")
     logFile.close()
