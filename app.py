@@ -58,7 +58,7 @@ def CheckFolder(service, FileName):
 def get_excel_values():
 
     # read excel file
-    df = pd.read_excel('kaizen942-attachments\Sample Sheet.xlsx')
+    df = pd.read_excel('Sample Sheet.xlsx')
     # print all values after 4th row
     # print(df.iloc[4:])
     return df.iloc[3:].values
@@ -193,5 +193,6 @@ if __name__ == '__main__':
     main()
     print("success: successfully completed")
     logFile.write("\nsuccess: successfully completed")
-    logFile.write("\n===========================================================")
+    logFile.write(
+        "\n===========================================================")
     logFile.close()

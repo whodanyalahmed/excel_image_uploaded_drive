@@ -64,3 +64,41 @@ folder/File is not there creating one...
 Folder ID: 1kQDTSTnuaIH1nxauRlEUWEING1KUOjij
 info: uploaded file None with File ID: 1eodcsBwy144YH9z5mRCd_B1KrUzu8aGa
 Insulators is already there
+Started at: 2022-02-11 00:02:14.136415
+folder/File is not there creating one...
+Folder ID: 1syrMbddBs7g2rpJXuEGSKltExOZ7q-sZ
+folder/File is not there creating one...
+Folder ID: 1g2eRe7oiMe4vaRm8T3I8FyL9fIwgEAJw
+info: uploaded file None with File ID: 1w99fzPdC1xXTLWuZ7TRHPeZLzN4MM65z
+Wood Crossarm Assembly is already there
+info: uploaded file None with File ID: 1Yy3YvQybQodw61VgUieGxsW7VLPTF3bk
+folder/File is not there creating one...
+Folder ID: 1CDSyZKGVFFPMI6cCwk7Q_Yp6zw4NRkyC
+info: uploaded file None with File ID: 1j5gDr2KiFjK62qsr3pLhimL0duIm_im3
+Insulators is already there
+info: uploaded file None with File ID: 1Av38CFnbfkr26-DAAH--SkJTgpC2n3RL
+Insulators is already there
+info: uploaded file None with File ID: 1QdUHqK7wlaebQJXL117IsrW8x4a3O2nU
+Insulators is already there
+info: uploaded file None with File ID: 12faNXt2yJD4QhtZ0AeCfTyLtNziVMSRT
+Insulators is already there
+info: uploaded file None with File ID: 13lIgnkQ8EIuNXMZEOfwExo_sSUEQ5-i7
+folder/File is not there creating one...
+Folder ID: 1poQheXmuMhpmLqteTUtu3zeUO0iQSCRN
+info: uploaded file None with File ID: 1S4_iC_pdDcUm-RAtpAFrYYarPChtQqNo
+Wood Poles is already there
+info: uploaded file None with File ID: 1osrAqlweenCNPZX99gGJXPAQ0-p0B-Qr
+Wood Crossarm Assembly is already there
+info: uploaded file None with File ID: 1knWes4g524TRqpucENbWeUaap8FcO1ul
+Wood Poles is already there
+info: uploaded file None with File ID: 1nMiN6b0grLAnWfm3vq3wCy81192KzQF0
+folder/File is not there creating one...
+Folder ID: 1SsSa11iLC_SpNVZmWaafaE327JmL49dE
+info: uploaded file None with File ID: 1UYVCTVkxiMaGtDrHIp3GoF1vypm_OnzG
+Insulators is already there
+info: uploaded file None with File ID: 19bmgF3Lunc4tDowDC6JAoNnxnQYedUMr
+info: folder name is not there
+info: folder name is not there
+Insulators is already there
+info: uploaded file None with File ID: 1zILKe8K7cBZ5jagn2uoFXR69uYmYbbsb
+success: successfully completed
