@@ -6,7 +6,11 @@
 pip3 install -r requirements.txt
 ```
 
-# How to run the program
+## Before running the program
+
+Please add the following file in your project directory: `data.xlsx`
+
+## How to run the program
 
 ```
 python3 app.py
