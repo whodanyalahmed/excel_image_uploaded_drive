@@ -11,7 +11,7 @@ import math
 import pandas as pd
 import datetime
 # enter xlsx file name here
-xlsx_filename = 'Sample Sheet.xlsx'
+xlsx_filename = 'data.xlsx'
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/drive']
@@ -197,3 +197,4 @@ if __name__ == '__main__':
     logFile.write(
         "\n===========================================================")
     logFile.close()
+    

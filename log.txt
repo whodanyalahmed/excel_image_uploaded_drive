@@ -102,3 +102,30 @@ info: folder name is not there
 Insulators is already there
 info: uploaded file None with File ID: 1zILKe8K7cBZ5jagn2uoFXR69uYmYbbsb
 success: successfully completed
+===========================================================
+Started at: 2022-02-11 00:06:19.260764
+folder/File is not there creating one...
+Folder ID: 1l3U0KyTulghXKws0fNNi3OzOyfx6-UPm
+folder/File is not there creating one...
+Folder ID: 13J219gYQZ_b43sztxtHxXHomqaVFtYJX
+info: uploaded file None with File ID: 1Gdy-_x3WCt6S7P26HR5ZNRU5_fbvND5I
+Wood Crossarm Assembly is already there
+info: uploaded file None with File ID: 14fGONU5SULbCUAfGVkFgTq5GweQ1VoJG
+folder/File is not there creating one...
+Folder ID: 1wgURn_zZBKFPbm4wrfFcaOWckZa91b_u
+info: uploaded file None with File ID: 12WCJE0137lg6ZJ-GK8dtQCEK_cBL_2OP
+Insulators is already there
+info: uploaded file None with File ID: 1X9zyMWXWaWVdc-Ghplqc0nXf7LSneLMK
+Insulators is already there
+info: uploaded file None with File ID: 10-bU1uI6P89YEZI3sOMA7ribnBYRLvtu
+Insulators is already there
+info: uploaded file None with File ID: 1AjFen7mGc11K7-T1bJpE1n9PxMXscuY0
+Insulators is already there
+===========================================================
+Started at: 2022-02-11 00:08:08.495313
+folder/File is not there creating one...
+Folder ID: 1ksU_zYByd73vTDGeQ5otPYO3gHMW5-fk
+folder/File is not there creating one...
+Folder ID: 1F1huUuY1w_pIpaEYWJHSLEODtGyt3EHG
+info: uploaded file None with File ID: 1gmwXLGC1tSjD2KZP64yuBzvseW5E3iL_
+Wood Crossarm Assembly is already there
