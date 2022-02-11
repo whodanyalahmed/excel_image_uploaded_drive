@@ -8,7 +8,7 @@ then run the script by "py app.py" which will run the script...
 ## How to install dependencies
 
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Before running the program
@@ -18,7 +18,7 @@ Please add the following file in your project directory: `data.xlsx`
 ## How to run the program
 
 ```
-python3 app.py
+py app.py
 ```
 
 if you have any problem while running the script let me know i can help you through anydesk... to set up the script..
