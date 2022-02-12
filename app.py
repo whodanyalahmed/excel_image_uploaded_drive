@@ -56,6 +56,38 @@ def CheckFolder(service, FileName):
                 return item['id']
 
 
+def CheckSubFolder(service, FileName, parent):
+    page_token = None
+    # response = service.files().list(q="mimeType = 'application/vnd.google-apps.spreadsheet'",
+    # response = service.files().list(q="mimeType = 'application/vnd.google-apps.folder'",
+    #                                 spaces='drive',
+    #                                 fields='nextPageToken, files(id, name)',
+    #                                 pageToken=page_token).execute()
+    response = service.files().list(pageSize=1000, q="'{}' in parents and mimeType='application/vnd.google-apps.folder' and trashed = false".format(parent),
+                                    spaces='drive', fields='nextPageToken, files(id, name, mimeType, parents, sharingUser)', pageToken=page_token).execute()
+    items = response.get('files', [])
+    #     # Process change
+    #     print('Found file: %s (%s)' % (file.get('name'), file.get('id')))
+    # page_token = response.get('nextPageToken', None)
+    # if page_token is None:
+    #     break
+    # for i in items:
+    #     print(i['name'])
+    if not items:
+        print('No files found.')
+        logFile.write("\nNo files found.")
+        return None
+    else:
+        # print('Files:')
+        for item in items:
+            # print(item['name'])
+            if(item['name'] == FileName):
+                print(FileName + " is already there")
+                logFile.write("\n" + FileName + " is already there")
+                # print(item['name'])
+                return item['id']
+
+
 def get_excel_values():
 
     # read excel file
@@ -179,15 +211,21 @@ def main():
             folderId = CreateFolder(folderName, service, main_folder_id)
         else:
             pass
-        file_metadata = {'name': filename, 'parents': [folderId]}
+        cat = excel_values[i][7]
+        catID = CheckSubFolder(service, cat, folderId)
+        if(catID == None):
+            catID = CreateFolder(cat, service, folderId)
+        else:
+            pass
+        file_metadata = {'name': filename, 'parents': [catID]}
         media = MediaFileUpload(filepath, mimetype='image/jpeg')
         file = service.files().create(body=file_metadata,
                                       media_body=media,
                                       fields='id').execute()
-        print('info: uploaded file {} with File ID: {}'.format(
-            file.get('name'), file.get('id')))
-        logFile.write("\ninfo: uploaded file {} with File ID: {}".format(
-            file.get('name'), file.get('id')))
+        print('info: uploaded file with ID: {}'.format(
+            file.get('id')))
+        logFile.write("\ninfo: uploaded file with ID: {}".format(
+            file.get('id')))
 
 
 if __name__ == '__main__':
@@ -197,4 +235,3 @@ if __name__ == '__main__':
     logFile.write(
         "\n===========================================================")
     logFile.close()
-    

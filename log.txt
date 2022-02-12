@@ -129,3 +129,94 @@ folder/File is not there creating one...
 Folder ID: 1F1huUuY1w_pIpaEYWJHSLEODtGyt3EHG
 info: uploaded file None with File ID: 1gmwXLGC1tSjD2KZP64yuBzvseW5E3iL_
 Wood Crossarm Assembly is already there
+===========================================================
+Started at: 2022-02-11 23:04:53.719767
+===========================================================
+Started at: 2022-02-11 23:05:38.991083
+folder/File is not there creating one...
+Folder ID: 1C4-QT67Ny4xNFvjnHkAClewIZZRJKbj5
+folder/File is not there creating one...
+Folder ID: 1RwaU0nCJ1at6k4d8-CL53MY05gSyAus3
+folder/File is not there creating one...
+Folder ID: 1gtOuegE7kDAz2xBLeHydlzOWUWZBbCl8
+info: uploaded file None with File ID: 1vUGiI9gQXgCc8MP_wbyUY1ksZDpy6k8j
+Wood Crossarm Assembly is already there
+B is already there
+info: uploaded file None with File ID: 1QBJgvquJOqOIBeI5siXT_JEBRMOrfJZZ
+folder/File is not there creating one...
+Folder ID: 1xfL4lKv4AIY1L5kRZm0NkcLliAK_KhSi
+B is already there
+info: uploaded file None with File ID: 129QbE9kvmXuc1dHFEVRwQx0pfQbrLFqL
+Insulators is already there
+B is already there
+info: uploaded file None with File ID: 1sRV_RT6_PxmAroK58svQeNXz0Lmm68JG
+Insulators is already there
+B is already there
+===========================================================
+Started at: 2022-02-11 23:09:42.197945
+folder/File is not there creating one...
+Folder ID: 1bIwJlDtoYJLwIbcX1lfDDJ7KI0S4j1zK
+folder/File is not there creating one...
+Folder ID: 1kmkhBIiCX5gwzoelLib6ygDwWrE_b-uO
+===========================================================
+Started at: 2022-02-11 23:10:58.085456
+folder/File is not there creating one...
+Folder ID: 1c6kzBIeFDmwvmsIrq57y7_qHqz2usWf3
+folder/File is not there creating one...
+Folder ID: 1EGRERfsUjVL9IdCZzjzJFiH7wGKrOM9U
+No files found.
+folder/File is not there creating one...
+Folder ID: 1w6yORFQs2vYRsODsH4QjFujcMZLCwbPP
+info: uploaded file None with File ID: 1teVuowbjhpuTibpbd7zM6Pwv7y5BztkU
+Wood Crossarm Assembly is already there
+B is already there
+info: uploaded file None with File ID: 1AaLCg8fRw_i-q5Uxq49z2n5lsqfK0HP1
+folder/File is not there creating one...
+Folder ID: 1DkiIWQIAxmfIgZ6wMp5N9j_fgqPqqfU_
+No files found.
+folder/File is not there creating one...
+Folder ID: 16gPG5rClxDxmtpkwOACr7-QCHX7pcpRd
+info: uploaded file None with File ID: 15hEs-6sxANDiK8LNBm0AM1JqReCBr0uN
+Insulators is already there
+B is already there
+info: uploaded file None with File ID: 1iTnNuwR75tLphaephYs6vZL9nIlrL_uc
+Insulators is already there
+B is already there
+info: uploaded file None with File ID: 17xUjI9FLNA9eCXzeVRVFNIqc1eg0iepS
+Insulators is already there
+B is already there
+info: uploaded file None with File ID: 1pr_M7z4MEutWBA0AO468H2xd2kyx7EjR
+Insulators is already there
+B is already there
+info: uploaded file None with File ID: 1tO7ziwmYQ7AfWLFUAmDS-KQw8_NgGJuh
+folder/File is not there creating one...
+Folder ID: 1_XyWawaLzUPoJJjV2H-WjpJeGK6COIvY
+No files found.
+folder/File is not there creating one...
+Folder ID: 1xZs5Toz7FIS79Jd9HrlKhVjymH055zFZ
+info: uploaded file None with File ID: 1Rf1MQyxkFlEHMTZFlWXK3ml5pPOoRv5Q
+Wood Poles is already there
+B is already there
+info: uploaded file None with File ID: 1BgQkudXm6k8hFC0i2Sxa2b1kA1BsZCfZ
+Wood Crossarm Assembly is already there
+B is already there
+info: uploaded file None with File ID: 12gNO7ekrwMGIH70-xBoHLftO93gzNTKi
+Wood Poles is already there
+B is already there
+info: uploaded file None with File ID: 1NWvaMTY7E4Fnt8dj-dfAYhv_1VTQTa2x
+folder/File is not there creating one...
+Folder ID: 1n0hRTq6CA0hDZpfZNXTiWN7eqW4ahA65
+No files found.
+folder/File is not there creating one...
+Folder ID: 1YPGg9I63poEGX9ie7EnFptOvvGW2kBky
+info: uploaded file None with File ID: 10vqC2FD0XD0RyaihqxibuPguhAg2Ai0h
+Insulators is already there
+B is already there
+info: uploaded file None with File ID: 1WY3BkIpXtVl4DARpS0T7UHjJ-DolKNpB
+info: folder name is not there
+info: folder name is not there
+Insulators is already there
+B is already there
+info: uploaded file None with File ID: 1jSu8keArSAmKIff_nUpj6m-czmKNJaxV
+success: successfully completed
+===========================================================
